@@ -91,7 +91,7 @@ Net = neural_autoencoder_CNN_PReLU()
 loss = training_NN(epoch ,batch, y_input,y_output)
 
 
-Net.save('/home/jbuch/TBNN_a_constant/Autoencoder/basaidai.keras') # Save the model
-np.save('/home/jbuch/TBNN_a_constant/Autoencoder/basaidai.npy',loss)# Save the convergence corve
+Net.save('file_path/name_path.keras') # Save the model
+np.save('file_path/name_path.npy',loss)# Save the convergence corve
 
 
