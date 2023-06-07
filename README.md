@@ -15,3 +15,7 @@ Explication of the codes:
 - final_program.py: Sumation of the Autoencoder and Encoder trainined with a normalitzation program.
 
 This code is a part of my final degree Work, for more information about one can read the work in
+
+# Important
+
+To execute correctly, the file_path and the name_file must be added
