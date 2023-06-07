@@ -1,6 +1,5 @@
 # TBHCNN
-
-Those are the code Python for the Tight-Binding Hamiltonian parametritzation in function of the parameters a (interatomic distance), $\epsilon_0$ (on-site energy) and t (hopping term)
+Python codes for the Tight-Binding Hamiltonian parametritzation by Neural networks (Machine Learning) in function of the parameters: a (interatomic distance), $\epsilon_0$ (on-site energy) and t (hopping term)
 The program has not a normal github stricture, is not programed in modules and has not correlation between the python codes.
 
 # Requirements
