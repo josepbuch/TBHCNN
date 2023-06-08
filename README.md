@@ -14,7 +14,7 @@ Explication of the codes:
 - Train_Encoder.py; combination of CNN and DNN structure to extract the a,t,$\epsilon_0$ parameters for the energy corbes witout noise
 - final_program.py: Sumation of the Autoencoder and Encoder trainined with a normalitzation program.
 
-This code is a part of my final degree Work, for more information about one can read the work in
+This code is a part of my final degree Work, for more information about one can read the work (not yet published)
 
 # Important
 
